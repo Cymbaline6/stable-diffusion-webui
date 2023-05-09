@@ -33,3 +33,8 @@ notification.mp3
 /test/stdout.txt
 /test/stderr.txt
 /cache.json
+/.vs/VSWorkspaceState.json
+/.vs/stable-diffusion-webui/v17/.wsuo
+/.vs/stable-diffusion-webui/FileContentIndex/read.lock
+/.vs/stable-diffusion-webui/FileContentIndex/1e9891a6-abdb-4a1d-ad25-38b4e6ce33e8.vsidx
+/.vs/slnx.sqlite
